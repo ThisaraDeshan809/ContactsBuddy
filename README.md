@@ -1,2 +1,2 @@
 # ContactsBuddy
-Android Contact Management Ap
+Android Contact Management App
